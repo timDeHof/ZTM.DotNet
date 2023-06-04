@@ -1,0 +1,15 @@
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\bin\Debug\net6.0\ConsoleInput.exe
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\bin\Debug\net6.0\ConsoleInput.deps.json
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\bin\Debug\net6.0\ConsoleInput.runtimeconfig.json
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\bin\Debug\net6.0\ConsoleInput.dll
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\bin\Debug\net6.0\ConsoleInput.pdb
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.csproj.AssemblyReference.cache
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.AssemblyInfoInputs.cache
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.AssemblyInfo.cs
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.dll
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\refint\ConsoleInput.dll
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.pdb
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ConsoleInput.genruntimeconfig.cache
+C:\Users\Tyler\source\repos\ZTM.DotNet\ConsoleInput\obj\Debug\net6.0\ref\ConsoleInput.dll

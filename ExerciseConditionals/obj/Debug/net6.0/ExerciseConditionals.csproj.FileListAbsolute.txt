@@ -1,0 +1,15 @@
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\bin\Debug\net6.0\ExerciseConditionals.exe
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\bin\Debug\net6.0\ExerciseConditionals.deps.json
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\bin\Debug\net6.0\ExerciseConditionals.runtimeconfig.json
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\bin\Debug\net6.0\ExerciseConditionals.dll
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\bin\Debug\net6.0\ExerciseConditionals.pdb
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\obj\Debug\net6.0\ExerciseConditionals.csproj.AssemblyReference.cache
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\obj\Debug\net6.0\ExerciseConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\obj\Debug\net6.0\ExerciseConditionals.AssemblyInfoInputs.cache
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\obj\Debug\net6.0\ExerciseConditionals.AssemblyInfo.cs
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\obj\Debug\net6.0\ExerciseConditionals.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\obj\Debug\net6.0\ExerciseConditionals.dll
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\obj\Debug\net6.0\refint\ExerciseConditionals.dll
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\obj\Debug\net6.0\ExerciseConditionals.pdb
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\obj\Debug\net6.0\ExerciseConditionals.genruntimeconfig.cache
+C:\Users\Tyler\source\repos\ZTM.DotNet\ExerciseConditionals\obj\Debug\net6.0\ref\ExerciseConditionals.dll

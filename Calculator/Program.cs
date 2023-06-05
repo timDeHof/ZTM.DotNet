@@ -2,9 +2,9 @@
 do
 {
     float result;
-    Console.WriteLine("-----------------------------");
+    Console.WriteLine("+---------------------------+");
     Console.WriteLine("|      Calculator           |");
-    Console.WriteLine("-----------------------------");
+    Console.WriteLine("+---------------------------+");
     Console.WriteLine();
     Console.Write("What is the first number: ");
     int firstNumber = Convert.ToInt32(Console.ReadLine());

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\Strings\\Strings.csproj",
+      "projectUniqueName": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\Strings\\Strings.csproj",
       "projectName": "Strings",
-      "projectPath": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\Strings\\Strings.csproj",
+      "projectPath": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\Strings\\Strings.csproj",
       "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\Strings\\obj\\",
+      "outputPath": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\Strings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",

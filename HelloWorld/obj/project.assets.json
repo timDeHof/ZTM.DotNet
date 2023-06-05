@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",

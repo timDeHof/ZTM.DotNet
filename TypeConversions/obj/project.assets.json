@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\TypeConversions\\TypeConversions.csproj",
+      "projectUniqueName": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\TypeConversions\\TypeConversions.csproj",
       "projectName": "TypeConversions",
-      "projectPath": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\TypeConversions\\TypeConversions.csproj",
+      "projectPath": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\TypeConversions\\TypeConversions.csproj",
       "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\TypeConversions\\obj\\",
+      "outputPath": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\TypeConversions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",

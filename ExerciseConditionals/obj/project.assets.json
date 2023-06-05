@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\ExerciseConditionals\\ExerciseConditionals.csproj",
+      "projectUniqueName": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\ExerciseConditionals\\ExerciseConditionals.csproj",
       "projectName": "ExerciseConditionals",
-      "projectPath": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\ExerciseConditionals\\ExerciseConditionals.csproj",
+      "projectPath": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\ExerciseConditionals\\ExerciseConditionals.csproj",
       "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\ExerciseConditionals\\obj\\",
+      "outputPath": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\ExerciseConditionals\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",

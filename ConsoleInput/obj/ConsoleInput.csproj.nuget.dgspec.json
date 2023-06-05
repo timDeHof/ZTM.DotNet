@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\ConsoleInput\\ConsoleInput.csproj": {}
+    "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\ConsoleInput\\ConsoleInput.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\ConsoleInput\\ConsoleInput.csproj": {
+    "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\ConsoleInput\\ConsoleInput.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\ConsoleInput\\ConsoleInput.csproj",
+        "projectUniqueName": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\ConsoleInput\\ConsoleInput.csproj",
         "projectName": "ConsoleInput",
-        "projectPath": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\ConsoleInput\\ConsoleInput.csproj",
+        "projectPath": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\ConsoleInput\\ConsoleInput.csproj",
         "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\ConsoleInput\\obj\\",
+        "outputPath": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\ConsoleInput\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",

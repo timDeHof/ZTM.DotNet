@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\SwitchStatements\\SwitchStatements.csproj",
+      "projectUniqueName": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\SwitchStatements\\SwitchStatements.csproj",
       "projectName": "SwitchStatements",
-      "projectPath": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\SwitchStatements\\SwitchStatements.csproj",
+      "projectPath": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\SwitchStatements\\SwitchStatements.csproj",
       "packagesPath": "C:\\Users\\Tyler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tyler\\source\\repos\\ZTM.DotNet\\SwitchStatements\\obj\\",
+      "outputPath": "C:\\Users\\Tyler\\Source\\Repos\\timDeHof\\ZTM.DotNet\\SwitchStatements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tyler\\AppData\\Roaming\\NuGet\\NuGet.Config",
